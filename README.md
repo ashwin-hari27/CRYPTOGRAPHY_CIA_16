@@ -132,7 +132,7 @@ g++ *.cpp -o crypto
 
 ###  Sample Output — Example 1 (Plaintext: `ACT`)
 
-![Terminal Output - ACT](screenshots/output_ACT.png)
+![Terminal Output - ACT](Output.png)
 
 ###  Sample Output — Example 2 (Plaintext: `CRYPTOGRAPHY`)
 
